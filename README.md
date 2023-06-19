@@ -11,8 +11,7 @@ This is an object oriented project, which includes many classes that implemented
 In the tournament that we managed, there are players that divided in groups and every player has his own statistics.
 Every player has his ID, his level on the tournament, and his group ID.
 
-In the Library1 file, there are function that implemented for using the system, like adding a new player to a group, deliting players, change player's level and also geting some statistics like the best level players.
-
+In the Library1 file, there are functioans that implemented for using the system, like adding a new player to a group, deliting players, change player's level and also geting some statistics like the best level players.
 
 ## Summary
 Credits to be given for my partner and friend **Tal Mashiach**.
